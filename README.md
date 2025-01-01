@@ -1,4 +1,5 @@
 pip install colorama
+
 pip install requests
 
-python cli.py  
+**python cli.py  **
